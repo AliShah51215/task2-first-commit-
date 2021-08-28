@@ -1,4 +1,3 @@
 
 
-System.out.println(Hello_World);
-alishah@152001@gmail.com
+My first GIT repository commands practised 
